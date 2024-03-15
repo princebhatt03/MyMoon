@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Background Image Changer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Select Background Image:</h2>
+    <select id="imageSelector">
+      <option value="image1">Image 1</option>
+      <option value="image2">Image 2</option>
+      <option value="image3">Image 3</option>
+    </select>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
